@@ -1,0 +1,10 @@
+Company Name: Acme Corporation
+Founded: 1985
+Headquarters: Cupertino, California
+Mission: To create innovative products that empower people and enrich their lives.
+Values:
+  - Innovation
+  - Excellence
+  - Customer focus
+  - Sustainability
+

@@ -1,0 +1,18 @@
+Product Name: AcmePhone 15
+Description: Our flagship smartphone with a cutting-edge camera and powerful processor.
+Features:
+  - 6.5-inch Super Retina XDR display
+  - A16 Bionic chip
+  - Triple-lens camera system (48MP, 12MP ultrawide, 12MP telephoto)
+  - Cinematic mode for videos
+  - IP68 water resistance
+
+Product Name: AcmeWatch Pro
+Description: A premium smartwatch for fitness and productivity.
+Features:
+  - Heart rate monitoring
+  - Blood oxygen sensor
+  - ECG app
+  - GPS tracking
+  - Multiple workout modes
+

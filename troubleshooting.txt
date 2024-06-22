@@ -1,0 +1,16 @@
+Problem: AcmePhone 15 won't charge.
+Solution:
+  1. Check if the charging cable and adapter are working properly.
+  2. Try a different outlet or power source.
+  3. Clean the charging port on your phone.
+  4. Restart your phone.
+  5. If the issue persists, contact Acme Support.
+
+Problem: AcmeWatch Pro not syncing with my phone.
+Solution:
+  1. Make sure Bluetooth is enabled on both devices.
+  2. Check if the devices are within range of each other.
+  3. Restart both devices.
+  4. Unpair and re-pair the devices.
+  5. If the issue persists, contact Acme Support.
+
